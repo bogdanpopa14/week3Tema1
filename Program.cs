@@ -437,7 +437,7 @@ namespace w3h1
             }
             for (int i = 2; i < nr; i++)
             {
-                if(nr%2==0)
+                if(nr%i==0)
                 {
                     x++;
                 }
